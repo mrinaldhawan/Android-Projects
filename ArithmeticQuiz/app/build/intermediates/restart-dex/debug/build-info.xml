@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="24"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="77600452052976"
+    token="314838387787744502"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="518" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="555" />
+    <task
+        name="verifier"
+        duration="73" />
+
+    <artifact
+        location="C:\ids494\ArithmeticQuiz\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="77600452052976"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\ids494\ArithmeticQuiz\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

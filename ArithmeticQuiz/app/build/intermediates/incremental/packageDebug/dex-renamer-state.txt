@@ -1,0 +1,7 @@
+#Thu Apr 06 20:36:15 CDT 2017
+base.0=C\:\\ids494\\ArithmeticQuiz\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ce5b20a6e1ef445c8d5c4e10070d7ddcbbb985ba
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\ids494\\ArithmeticQuiz\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5a5d61837fe357eaff627e8ec41eb35a015785ac\\classes.dex
+base.1=C\:\\ids494\\ArithmeticQuiz\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5a5d61837fe357eaff627e8ec41eb35a015785ac
+file.0=C\:\\ids494\\ArithmeticQuiz\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ce5b20a6e1ef445c8d5c4e10070d7ddcbbb985ba\\classes.dex

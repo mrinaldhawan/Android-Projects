@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CountingMadeFun</string>
+    <string name="game_over">Game Over</string>
+    <string name="images">Images</string>
+    <string name="level">Level: </string>
+    <string name="level1">Level1</string>
+    <string name="level2">Level2</string>
+    <string name="level3">Level3</string>
+    <string name="reset_game">Reset Game</string>
+    <string name="sounds">Sounds</string>
+    <string name="time_elapsed">Time Elapsed: </string>
+    <string name="time_remaining">Time Remaining: </string>
+</resources>

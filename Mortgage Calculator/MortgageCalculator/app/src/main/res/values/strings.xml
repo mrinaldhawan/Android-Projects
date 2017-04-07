@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mortgage Calculator</string>
+    <string name="house_price">House Price</string>
+    <string name="down_payment">Down Payment</string>
+    <string name="annual_rate">Annual Rate</string>
+    <string name="total_payment">Total Payment</string>
+    <string name="monthly_installment">Monthly Installment</string>
+    <string name="years">Years</string>
+    <string name="default_price">0.0</string>
+    <string name="default_payment">0.0</string>
+    <string name="default_rate">4.5</string>
+    <string name="default_year">2</string>
+
+</resources>

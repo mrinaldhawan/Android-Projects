@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\ids494\CountingMadeFun\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="24451430daed88639b80e30ec243d9c56966baa1">
+        <dex dex="C:\ids494\CountingMadeFun\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ae8c70b6e1e1eb208cf06b513dd6f712c5c4d3a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\ids494\CountingMadeFun\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e8fed57086a476d922b051445e384b246591d6b5">
+        <dex dex="C:\ids494\CountingMadeFun\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b885f62a446f8da28ecee946c1ec891558863467\classes.dex" />
+    </item>
+
+</items>

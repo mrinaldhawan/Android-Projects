@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\ids494\\CountingMadeFun\\app\\build\\intermediates\\res\\merged\\debug\\raw\\hit.mp3",
+        "source": "C:\\ids494\\CountingMadeFun\\app\\src\\main\\res\\raw\\hit.mp3"
+    },
+    {
+        "merged": "C:\\ids494\\CountingMadeFun\\app\\build\\intermediates\\res\\merged\\debug\\raw\\uhoh.mp3",
+        "source": "C:\\ids494\\CountingMadeFun\\app\\src\\main\\res\\raw\\uhoh.mp3"
+    },
+    {
+        "merged": "C:\\ids494\\CountingMadeFun\\app\\build\\intermediates\\res\\merged\\debug\\raw\\applause.mp3",
+        "source": "C:\\ids494\\CountingMadeFun\\app\\src\\main\\res\\raw\\applause.mp3"
+    },
+    {
+        "merged": "C:\\ids494\\CountingMadeFun\\app\\build\\intermediates\\res\\merged\\debug\\raw\\disappear.mp3",
+        "source": "C:\\ids494\\CountingMadeFun\\app\\src\\main\\res\\raw\\disappear.mp3"
+    },
+    {
+        "merged": "C:\\ids494\\CountingMadeFun\\app\\build\\intermediates\\res\\merged\\debug\\raw\\miss.mp3",
+        "source": "C:\\ids494\\CountingMadeFun\\app\\src\\main\\res\\raw\\miss.mp3"
+    }
+]
